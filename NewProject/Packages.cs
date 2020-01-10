@@ -27,6 +27,7 @@ namespace NewProject
             FlightScreen FS = new FlightScreen();
             FS.Show();
             
+            
         }
 
         private void button4_Click(object sender, EventArgs e)
